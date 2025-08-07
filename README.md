@@ -48,4 +48,5 @@ This will run the server on port 3000.
 > [!CAUTION]
 > This code is not affilated in anyway with StudentVUE, the Northshore School District or any StudentVUE School Districts. Use is at your own risk. These APIs fetch directly into StudentVUE and do not store, share, or save your data anywhere. 
 > Please note that the Northshore School District does not encourage usage of any StudentVUE API's or wrappers. Use is at your own risk.
+>
 > **APIVUE does not (and will never) share, save, sell or store your data.** Your data cannot even been seen by APIVUE.
