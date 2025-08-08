@@ -1,8 +1,10 @@
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 from studentvue import StudentVue
 import traceback
 
 app = Flask(__name__)
+CORS(app)
 
 def create_studentvue_client(username, password, district_url):
     # creates studentvue client with creds
