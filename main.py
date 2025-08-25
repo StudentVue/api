@@ -259,7 +259,7 @@ def api_documentation():
     }
     
     return jsonify({
-        "message": "APIVUE - StudentVue REST API",
+        "message": "StudentVUE Rest API",
         "endpoints": endpoints,
         "required_params": {
             "username": "Student's username",
@@ -271,7 +271,7 @@ def api_documentation():
             "password": "your_password",
             "district_url": "https://district.edupoint.com"
         },
-        "info": "This API is under Apache License 2.0 and is provided as-is. Use at your own risk. Made by @aramshiva on github. The code is opensource at https://github.com/aramshiva/APIVUE. Thanks for using APIVUE!",
+        "info": "This API is under Apache License 2.0 and is provided as-is. Use at your own risk. Made by @aramshiva on github. The code is opensource at https://github.com/StudentVue/api. Thanks for using APIVUE!",
     })
 
 if __name__ == '__main__':
