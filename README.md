@@ -1,6 +1,8 @@
-# APIVUE
+# api
 
-APIVUE is a Flask REST API Server to fetch data from StudentVue for accessing data. It's powered by the [StudentVue.py](https://github.com/StudentVue/StudentVue.py)
+APIVUE is a Flask REST API Server to fetch data from StudentVue for accessing data. It's powered by the [StudentVue.py](https://github.com/StudentVue/StudentVue.py).
+
+There is no hosted version (at the moment) but I am working on getting one up soon.
 
 ### Running Locally
 To run locally, install the requirements using
